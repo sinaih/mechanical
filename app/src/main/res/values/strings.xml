@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CASU CREDIT PAYMENT </string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nfc_not_open_go_open">This application requires you to enable NFC. Go Open NFC</string>
+    <string name="yes">yes</string>
+    <string name="nfc_device_not_support">This Device Does Not Support NFC</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorAccent</item>
+    </style>
+
+    <style name="mytheme" parent="Theme.AppCompat.NoActionBar" >
+        <item name="android:colorBackground">@color/background_material_dark_1</item>
+        <item name="android:colorForeground">@color/bright_foreground_inverse_material_dark</item>
+        <item name="android:textColorPrimary">@color/abc_primary_text_disable_only_material_light
+        </item>
+    </style>
+
+</resources>
